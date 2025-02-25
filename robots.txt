@@ -1,2 +1,2 @@
 User-agent: *
-sitemap: https://ytshortsdown.github.io/mp3juice/sitemap.xml
+sitemap: https://ytshortsdown.github.io/ytshorts/sitemap.xml
